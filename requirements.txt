@@ -1,0 +1,13 @@
+discord
+request
+BeautifulSoup
+pprint
+decimal
+urllib
+collections
+hashlib
+codecs
+flask
+datetime
+PIL
+linebot
